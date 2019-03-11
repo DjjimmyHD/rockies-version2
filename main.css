@@ -1,0 +1,13 @@
+
+.card .card-reveal {
+    padding: 24px;
+    position: absolute;
+    background-color: #fff;
+    width: 100%;
+    overflow-y: auto;
+    left: 0;
+    top: 100%;
+    height: auto;
+    z-index: 3;
+    display: none;
+}

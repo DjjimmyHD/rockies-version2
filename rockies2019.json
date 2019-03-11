@@ -1,0 +1,1458 @@
+[
+  {
+    "START DATE": "03/09/19",
+    "START TIME": "01:05 PM",
+    "SUBJECT": "Rockies at Indians",
+    "LOCATION": "Goodyear Ballpark - Goodyear",
+    "END DATE": "03/09/19",
+    "END TIME": "04:05 PM"
+  },
+  {
+    "START DATE": "03/09/19",
+    "START TIME": "05:10 PM",
+    "SUBJECT": "D-backs at Rockies",
+    "LOCATION": "Estadio de Beisbol Monterrey - Monterrey",
+    "END DATE": "03/09/19",
+    "END TIME": "08:10 PM"
+  },
+  {
+    "START DATE": "03/10/19",
+    "START TIME": "02:10 PM",
+    "SUBJECT": "Dodgers at Rockies",
+    "LOCATION": "Salt River Fields at Talking Stick - Scottsdale",
+    "END DATE": "03/10/19",
+    "END TIME": "05:10 PM"
+  },
+  {
+    "START DATE": "03/10/19",
+    "START TIME": "03:10 PM",
+    "SUBJECT": "Rockies at D-backs",
+    "LOCATION": "Estadio de Beisbol Monterrey - Monterrey",
+    "END DATE": "03/10/19",
+    "END TIME": "06:10 PM"
+  },
+  {
+    "START DATE": "03/11/19",
+    "START TIME": "02:10 PM",
+    "SUBJECT": "Athletics at Rockies",
+    "LOCATION": "Salt River Fields at Talking Stick - Scottsdale",
+    "END DATE": "03/11/19",
+    "END TIME": "05:10 PM"
+  },
+  {
+    "START DATE": "03/13/19",
+    "START TIME": "02:10 PM",
+    "SUBJECT": "D-backs at Rockies",
+    "LOCATION": "Salt River Fields at Talking Stick - Scottsdale",
+    "END DATE": "03/13/19",
+    "END TIME": "05:10 PM"
+  },
+  {
+    "START DATE": "03/14/19",
+    "START TIME": "02:05 PM",
+    "SUBJECT": "Rockies at Indians",
+    "LOCATION": "Goodyear Ballpark - Goodyear",
+    "END DATE": "03/14/19",
+    "END TIME": "05:05 PM"
+  },
+  {
+    "START DATE": "03/15/19",
+    "START TIME": "02:10 PM",
+    "SUBJECT": "Royals at Rockies",
+    "LOCATION": "Salt River Fields at Talking Stick - Scottsdale",
+    "END DATE": "03/15/19",
+    "END TIME": "05:10 PM"
+  },
+  {
+    "START DATE": "03/16/19",
+    "START TIME": "02:05 PM",
+    "SUBJECT": "Rockies at Brewers",
+    "LOCATION": "American Family Fields of Phoenix - Phoenix",
+    "END DATE": "03/16/19",
+    "END TIME": "05:05 PM"
+  },
+  {
+    "START DATE": "03/17/19",
+    "START TIME": "02:05 PM",
+    "SUBJECT": "Rockies at Cubs",
+    "LOCATION": "Sloan Park - Mesa",
+    "END DATE": "03/17/19",
+    "END TIME": "05:05 PM"
+  },
+  {
+    "START DATE": "03/18/19",
+    "START TIME": "02:10 PM",
+    "SUBJECT": "Reds at Rockies",
+    "LOCATION": "Salt River Fields at Talking Stick - Scottsdale",
+    "END DATE": "03/18/19",
+    "END TIME": "05:10 PM"
+  },
+  {
+    "START DATE": "03/19/19",
+    "START TIME": "07:10 PM",
+    "SUBJECT": "Rockies at Angels",
+    "LOCATION": "Tempe Diablo Stadium - Tempe",
+    "END DATE": "03/19/19",
+    "END TIME": "10:10 PM"
+  },
+  {
+    "START DATE": "03/20/19",
+    "START TIME": "07:40 PM",
+    "SUBJECT": "Royals at Rockies",
+    "LOCATION": "Salt River Fields at Talking Stick - Scottsdale",
+    "END DATE": "03/20/19",
+    "END TIME": "10:40 PM"
+  },
+  {
+    "START DATE": "03/22/19",
+    "START TIME": "07:40 PM",
+    "SUBJECT": "Padres at Rockies",
+    "LOCATION": "Salt River Fields at Talking Stick - Scottsdale",
+    "END DATE": "03/22/19",
+    "END TIME": "10:40 PM"
+  },
+  {
+    "START DATE": "03/22/19",
+    "START TIME": "08:05 PM",
+    "SUBJECT": "Rockies at Giants",
+    "LOCATION": "Scottsdale Stadium - Scottsdale",
+    "END DATE": "03/22/19",
+    "END TIME": "11:05 PM"
+  },
+  {
+    "START DATE": "03/23/19",
+    "START TIME": "07:40 PM",
+    "SUBJECT": "Cubs at Rockies",
+    "LOCATION": "Salt River Fields at Talking Stick - Scottsdale",
+    "END DATE": "03/23/19",
+    "END TIME": "10:40 PM"
+  },
+  {
+    "START DATE": "03/24/19",
+    "START TIME": "01:05 PM",
+    "SUBJECT": "Rockies at Reds",
+    "LOCATION": "Goodyear Ballpark - Goodyear",
+    "END DATE": "03/24/19",
+    "END TIME": "04:05 PM"
+  },
+  {
+    "START DATE": "03/25/19",
+    "START TIME": "01:05 PM",
+    "SUBJECT": "Rockies at Isotopes",
+    "LOCATION": "Isotopes Park - Albuquerque",
+    "END DATE": "03/25/19",
+    "END TIME": "04:05 PM"
+  },
+  {
+    "START DATE": "03/26/19",
+    "START TIME": "12:05 PM",
+    "SUBJECT": "Rockies at Twins",
+    "LOCATION": "CenturyLink Sports Complex - Fort Myers",
+    "END DATE": "03/26/19",
+    "END TIME": "03:05 PM"
+  },
+  {
+    "START DATE": "03/28/19",
+    "START TIME": "02:10 PM",
+    "SUBJECT": "Rockies at Marlins",
+    "LOCATION": "Marlins Park - Miami",
+    "END DATE": "03/28/19",
+    "END TIME": "05:10 PM"
+  },
+  {
+    "START DATE": "03/29/19",
+    "START TIME": "05:10 PM",
+    "SUBJECT": "Rockies at Marlins",
+    "LOCATION": "Marlins Park - Miami",
+    "END DATE": "03/29/19",
+    "END TIME": "08:10 PM"
+  },
+  {
+    "START DATE": "03/30/19",
+    "START TIME": "04:10 PM",
+    "SUBJECT": "Rockies at Marlins",
+    "LOCATION": "Marlins Park - Miami",
+    "END DATE": "03/30/19",
+    "END TIME": "07:10 PM"
+  },
+  {
+    "START DATE": "03/31/19",
+    "START TIME": "11:10 AM",
+    "SUBJECT": "Rockies at Marlins",
+    "LOCATION": "Marlins Park - Miami",
+    "END DATE": "03/31/19",
+    "END TIME": "02:10 PM"
+  },
+  {
+    "START DATE": "04/01/19",
+    "START TIME": "05:10 PM",
+    "SUBJECT": "Rockies at Rays",
+    "LOCATION": "Tropicana Field - St. Petersburg",
+    "END DATE": "04/01/19",
+    "END TIME": "08:10 PM"
+  },
+  {
+    "START DATE": "04/02/19",
+    "START TIME": "05:10 PM",
+    "SUBJECT": "Rockies at Rays",
+    "LOCATION": "Tropicana Field - St. Petersburg",
+    "END DATE": "04/02/19",
+    "END TIME": "08:10 PM"
+  },
+  {
+    "START DATE": "04/03/19",
+    "START TIME": "11:10 AM",
+    "SUBJECT": "Rockies at Rays",
+    "LOCATION": "Tropicana Field - St. Petersburg",
+    "END DATE": "04/03/19",
+    "END TIME": "02:10 PM"
+  },
+  {
+    "START DATE": "04/05/19",
+    "START TIME": "02:10 PM",
+    "SUBJECT": "Dodgers at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "04/05/19",
+    "END TIME": "05:10 PM"
+  },
+  {
+    "START DATE": "04/06/19",
+    "START TIME": "06:10 PM",
+    "SUBJECT": "Dodgers at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "04/06/19",
+    "END TIME": "09:10 PM"
+  },
+  {
+    "START DATE": "04/07/19",
+    "START TIME": "06:37 PM",
+    "SUBJECT": "Dodgers at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "04/07/19",
+    "END TIME": "09:37 PM"
+  },
+  {
+    "START DATE": "04/08/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Braves at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "04/08/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "04/09/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Braves at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "04/09/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "04/10/19",
+    "START TIME": "01:10 PM",
+    "SUBJECT": "Braves at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "04/10/19",
+    "END TIME": "04:10 PM"
+  },
+  {
+    "START DATE": "04/11/19",
+    "START TIME": "07:45 PM",
+    "SUBJECT": "Rockies at Giants",
+    "LOCATION": "Oracle Park - San Francisco",
+    "END DATE": "04/11/19",
+    "END TIME": "10:45 PM"
+  },
+  {
+    "START DATE": "04/12/19",
+    "START TIME": "08:15 PM",
+    "SUBJECT": "Rockies at Giants",
+    "LOCATION": "Oracle Park - San Francisco",
+    "END DATE": "04/12/19",
+    "END TIME": "11:15 PM"
+  },
+  {
+    "START DATE": "04/13/19",
+    "START TIME": "02:05 PM",
+    "SUBJECT": "Rockies at Giants",
+    "LOCATION": "Oracle Park - San Francisco",
+    "END DATE": "04/13/19",
+    "END TIME": "05:05 PM"
+  },
+  {
+    "START DATE": "04/14/19",
+    "START TIME": "02:05 PM",
+    "SUBJECT": "Rockies at Giants",
+    "LOCATION": "Oracle Park - San Francisco",
+    "END DATE": "04/14/19",
+    "END TIME": "05:05 PM"
+  },
+  {
+    "START DATE": "04/15/19",
+    "START TIME": "08:10 PM",
+    "SUBJECT": "Rockies at Padres",
+    "LOCATION": "Petco Park - San Diego",
+    "END DATE": "04/15/19",
+    "END TIME": "11:10 PM"
+  },
+  {
+    "START DATE": "04/16/19",
+    "START TIME": "07:10 PM",
+    "SUBJECT": "Rockies at Padres",
+    "LOCATION": "Petco Park - San Diego",
+    "END DATE": "04/16/19",
+    "END TIME": "10:10 PM"
+  },
+  {
+    "START DATE": "04/18/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Phillies at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "04/18/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "04/19/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Phillies at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "04/19/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "04/20/19",
+    "START TIME": "06:10 PM",
+    "SUBJECT": "Phillies at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "04/20/19",
+    "END TIME": "09:10 PM"
+  },
+  {
+    "START DATE": "04/21/19",
+    "START TIME": "01:10 PM",
+    "SUBJECT": "Phillies at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "04/21/19",
+    "END TIME": "04:10 PM"
+  },
+  {
+    "START DATE": "04/22/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Nationals at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "04/22/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "04/23/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Nationals at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "04/23/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "04/24/19",
+    "START TIME": "01:10 PM",
+    "SUBJECT": "Nationals at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "04/24/19",
+    "END TIME": "04:10 PM"
+  },
+  {
+    "START DATE": "04/26/19",
+    "START TIME": "05:20 PM",
+    "SUBJECT": "Rockies at Braves",
+    "LOCATION": "SunTrust Park - Atlanta",
+    "END DATE": "04/26/19",
+    "END TIME": "08:20 PM"
+  },
+  {
+    "START DATE": "04/27/19",
+    "START TIME": "05:20 PM",
+    "SUBJECT": "Rockies at Braves",
+    "LOCATION": "SunTrust Park - Atlanta",
+    "END DATE": "04/27/19",
+    "END TIME": "08:20 PM"
+  },
+  {
+    "START DATE": "04/28/19",
+    "START TIME": "11:20 AM",
+    "SUBJECT": "Rockies at Braves",
+    "LOCATION": "SunTrust Park - Atlanta",
+    "END DATE": "04/28/19",
+    "END TIME": "02:20 PM"
+  },
+  {
+    "START DATE": "04/29/19",
+    "START TIME": "05:40 PM",
+    "SUBJECT": "Rockies at Brewers",
+    "LOCATION": "Miller Park - Milwaukee",
+    "END DATE": "04/29/19",
+    "END TIME": "08:40 PM"
+  },
+  {
+    "START DATE": "04/30/19",
+    "START TIME": "05:40 PM",
+    "SUBJECT": "Rockies at Brewers",
+    "LOCATION": "Miller Park - Milwaukee",
+    "END DATE": "04/30/19",
+    "END TIME": "08:40 PM"
+  },
+  {
+    "START DATE": "05/01/19",
+    "START TIME": "05:40 PM",
+    "SUBJECT": "Rockies at Brewers",
+    "LOCATION": "Miller Park - Milwaukee",
+    "END DATE": "05/01/19",
+    "END TIME": "08:40 PM"
+  },
+  {
+    "START DATE": "05/02/19",
+    "START TIME": "11:10 AM",
+    "SUBJECT": "Rockies at Brewers",
+    "LOCATION": "Miller Park - Milwaukee",
+    "END DATE": "05/02/19",
+    "END TIME": "02:10 PM"
+  },
+  {
+    "START DATE": "05/03/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "D-backs at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "05/03/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "05/04/19",
+    "START TIME": "06:10 PM",
+    "SUBJECT": "D-backs at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "05/04/19",
+    "END TIME": "09:10 PM"
+  },
+  {
+    "START DATE": "05/05/19",
+    "START TIME": "01:10 PM",
+    "SUBJECT": "D-backs at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "05/05/19",
+    "END TIME": "04:10 PM"
+  },
+  {
+    "START DATE": "05/07/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Giants at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "05/07/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "05/08/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Giants at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "05/08/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "05/09/19",
+    "START TIME": "01:10 PM",
+    "SUBJECT": "Giants at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "05/09/19",
+    "END TIME": "04:10 PM"
+  },
+  {
+    "START DATE": "05/10/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Padres at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "05/10/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "05/11/19",
+    "START TIME": "06:10 PM",
+    "SUBJECT": "Padres at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "05/11/19",
+    "END TIME": "09:10 PM"
+  },
+  {
+    "START DATE": "05/12/19",
+    "START TIME": "01:10 PM",
+    "SUBJECT": "Padres at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "05/12/19",
+    "END TIME": "04:10 PM"
+  },
+  {
+    "START DATE": "05/14/19",
+    "START TIME": "05:10 PM",
+    "SUBJECT": "Rockies at Red Sox",
+    "LOCATION": "Fenway Park - Boston",
+    "END DATE": "05/14/19",
+    "END TIME": "08:10 PM"
+  },
+  {
+    "START DATE": "05/15/19",
+    "START TIME": "05:10 PM",
+    "SUBJECT": "Rockies at Red Sox",
+    "LOCATION": "Fenway Park - Boston",
+    "END DATE": "05/15/19",
+    "END TIME": "08:10 PM"
+  },
+  {
+    "START DATE": "05/17/19",
+    "START TIME": "05:05 PM",
+    "SUBJECT": "Rockies at Phillies",
+    "LOCATION": "Citizens Bank Park - Philadelphia",
+    "END DATE": "05/17/19",
+    "END TIME": "08:05 PM"
+  },
+  {
+    "START DATE": "05/18/19",
+    "START TIME": "02:05 PM",
+    "SUBJECT": "Rockies at Phillies",
+    "LOCATION": "Citizens Bank Park - Philadelphia",
+    "END DATE": "05/18/19",
+    "END TIME": "05:05 PM"
+  },
+  {
+    "START DATE": "05/19/19",
+    "START TIME": "11:05 AM",
+    "SUBJECT": "Rockies at Phillies",
+    "LOCATION": "Citizens Bank Park - Philadelphia",
+    "END DATE": "05/19/19",
+    "END TIME": "02:05 PM"
+  },
+  {
+    "START DATE": "05/21/19",
+    "START TIME": "05:05 PM",
+    "SUBJECT": "Rockies at Pirates",
+    "LOCATION": "PNC Park - Pittsburgh",
+    "END DATE": "05/21/19",
+    "END TIME": "08:05 PM"
+  },
+  {
+    "START DATE": "05/22/19",
+    "START TIME": "05:05 PM",
+    "SUBJECT": "Rockies at Pirates",
+    "LOCATION": "PNC Park - Pittsburgh",
+    "END DATE": "05/22/19",
+    "END TIME": "08:05 PM"
+  },
+  {
+    "START DATE": "05/23/19",
+    "START TIME": "10:35 AM",
+    "SUBJECT": "Rockies at Pirates",
+    "LOCATION": "PNC Park - Pittsburgh",
+    "END DATE": "05/23/19",
+    "END TIME": "01:35 PM"
+  },
+  {
+    "START DATE": "05/24/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Orioles at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "05/24/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "05/25/19",
+    "START TIME": "07:10 PM",
+    "SUBJECT": "Orioles at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "05/25/19",
+    "END TIME": "10:10 PM"
+  },
+  {
+    "START DATE": "05/26/19",
+    "START TIME": "01:10 PM",
+    "SUBJECT": "Orioles at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "05/26/19",
+    "END TIME": "04:10 PM"
+  },
+  {
+    "START DATE": "05/27/19",
+    "START TIME": "01:10 PM",
+    "SUBJECT": "D-backs at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "05/27/19",
+    "END TIME": "04:10 PM"
+  },
+  {
+    "START DATE": "05/28/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "D-backs at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "05/28/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "05/29/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "D-backs at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "05/29/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "05/30/19",
+    "START TIME": "01:10 PM",
+    "SUBJECT": "D-backs at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "05/30/19",
+    "END TIME": "04:10 PM"
+  },
+  {
+    "START DATE": "05/31/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Blue Jays at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "05/31/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "06/01/19",
+    "START TIME": "07:10 PM",
+    "SUBJECT": "Blue Jays at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "06/01/19",
+    "END TIME": "10:10 PM"
+  },
+  {
+    "START DATE": "06/02/19",
+    "START TIME": "01:10 PM",
+    "SUBJECT": "Blue Jays at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "06/02/19",
+    "END TIME": "04:10 PM"
+  },
+  {
+    "START DATE": "06/04/19",
+    "START TIME": "06:05 PM",
+    "SUBJECT": "Rockies at Cubs",
+    "LOCATION": "Wrigley Field - Chicago",
+    "END DATE": "06/04/19",
+    "END TIME": "09:05 PM"
+  },
+  {
+    "START DATE": "06/05/19",
+    "START TIME": "06:05 PM",
+    "SUBJECT": "Rockies at Cubs",
+    "LOCATION": "Wrigley Field - Chicago",
+    "END DATE": "06/05/19",
+    "END TIME": "09:05 PM"
+  },
+  {
+    "START DATE": "06/06/19",
+    "START TIME": "12:20 PM",
+    "SUBJECT": "Rockies at Cubs",
+    "LOCATION": "Wrigley Field - Chicago",
+    "END DATE": "06/06/19",
+    "END TIME": "03:20 PM"
+  },
+  {
+    "START DATE": "06/07/19",
+    "START TIME": "05:10 PM",
+    "SUBJECT": "Rockies at Mets",
+    "LOCATION": "Citi Field - Flushing",
+    "END DATE": "06/07/19",
+    "END TIME": "08:10 PM"
+  },
+  {
+    "START DATE": "06/08/19",
+    "START TIME": "05:15 PM",
+    "SUBJECT": "Rockies at Mets",
+    "LOCATION": "Citi Field - Flushing",
+    "END DATE": "06/08/19",
+    "END TIME": "08:15 PM"
+  },
+  {
+    "START DATE": "06/09/19",
+    "START TIME": "11:10 AM",
+    "SUBJECT": "Rockies at Mets",
+    "LOCATION": "Citi Field - Flushing",
+    "END DATE": "06/09/19",
+    "END TIME": "02:10 PM"
+  },
+  {
+    "START DATE": "06/10/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Cubs at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "06/10/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "06/11/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Cubs at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "06/11/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "06/12/19",
+    "START TIME": "01:10 PM",
+    "SUBJECT": "Cubs at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "06/12/19",
+    "END TIME": "04:10 PM"
+  },
+  {
+    "START DATE": "06/13/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Padres at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "06/13/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "06/14/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Padres at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "06/14/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "06/15/19",
+    "START TIME": "06:10 PM",
+    "SUBJECT": "Padres at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "06/15/19",
+    "END TIME": "09:10 PM"
+  },
+  {
+    "START DATE": "06/16/19",
+    "START TIME": "01:10 PM",
+    "SUBJECT": "Padres at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "06/16/19",
+    "END TIME": "04:10 PM"
+  },
+  {
+    "START DATE": "06/18/19",
+    "START TIME": "07:40 PM",
+    "SUBJECT": "Rockies at D-backs",
+    "LOCATION": "Chase Field - Phoenix",
+    "END DATE": "06/18/19",
+    "END TIME": "10:40 PM"
+  },
+  {
+    "START DATE": "06/19/19",
+    "START TIME": "07:40 PM",
+    "SUBJECT": "Rockies at D-backs",
+    "LOCATION": "Chase Field - Phoenix",
+    "END DATE": "06/19/19",
+    "END TIME": "10:40 PM"
+  },
+  {
+    "START DATE": "06/20/19",
+    "START TIME": "01:40 PM",
+    "SUBJECT": "Rockies at D-backs",
+    "LOCATION": "Chase Field - Phoenix",
+    "END DATE": "06/20/19",
+    "END TIME": "04:40 PM"
+  },
+  {
+    "START DATE": "06/21/19",
+    "START TIME": "08:10 PM",
+    "SUBJECT": "Rockies at Dodgers",
+    "LOCATION": "Dodger Stadium - Los Angeles",
+    "END DATE": "06/21/19",
+    "END TIME": "11:10 PM"
+  },
+  {
+    "START DATE": "06/22/19",
+    "START TIME": "05:15 PM",
+    "SUBJECT": "Rockies at Dodgers",
+    "LOCATION": "Dodger Stadium - Los Angeles",
+    "END DATE": "06/22/19",
+    "END TIME": "08:15 PM"
+  },
+  {
+    "START DATE": "06/23/19",
+    "START TIME": "02:10 PM",
+    "SUBJECT": "Rockies at Dodgers",
+    "LOCATION": "Dodger Stadium - Los Angeles",
+    "END DATE": "06/23/19",
+    "END TIME": "05:10 PM"
+  },
+  {
+    "START DATE": "06/24/19",
+    "START TIME": "08:05 PM",
+    "SUBJECT": "Rockies at Giants",
+    "LOCATION": "Oracle Park - San Francisco",
+    "END DATE": "06/24/19",
+    "END TIME": "11:05 PM"
+  },
+  {
+    "START DATE": "06/25/19",
+    "START TIME": "07:45 PM",
+    "SUBJECT": "Rockies at Giants",
+    "LOCATION": "Oracle Park - San Francisco",
+    "END DATE": "06/25/19",
+    "END TIME": "10:45 PM"
+  },
+  {
+    "START DATE": "06/26/19",
+    "START TIME": "01:45 PM",
+    "SUBJECT": "Rockies at Giants",
+    "LOCATION": "Oracle Park - San Francisco",
+    "END DATE": "06/26/19",
+    "END TIME": "04:45 PM"
+  },
+  {
+    "START DATE": "06/27/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Dodgers at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "06/27/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "06/28/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Dodgers at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "06/28/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "06/29/19",
+    "START TIME": "06:15 PM",
+    "SUBJECT": "Dodgers at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "06/29/19",
+    "END TIME": "09:15 PM"
+  },
+  {
+    "START DATE": "06/30/19",
+    "START TIME": "01:10 PM",
+    "SUBJECT": "Dodgers at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "06/30/19",
+    "END TIME": "04:10 PM"
+  },
+  {
+    "START DATE": "07/02/19",
+    "START TIME": "06:10 PM",
+    "SUBJECT": "Astros at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "07/02/19",
+    "END TIME": "09:10 PM"
+  },
+  {
+    "START DATE": "07/03/19",
+    "START TIME": "06:10 PM",
+    "SUBJECT": "Astros at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "07/03/19",
+    "END TIME": "09:10 PM"
+  },
+  {
+    "START DATE": "07/05/19",
+    "START TIME": "07:10 PM",
+    "SUBJECT": "Rockies at D-backs",
+    "LOCATION": "Chase Field - Phoenix",
+    "END DATE": "07/05/19",
+    "END TIME": "10:10 PM"
+  },
+  {
+    "START DATE": "07/06/19",
+    "START TIME": "08:10 PM",
+    "SUBJECT": "Rockies at D-backs",
+    "LOCATION": "Chase Field - Phoenix",
+    "END DATE": "07/06/19",
+    "END TIME": "11:10 PM"
+  },
+  {
+    "START DATE": "07/07/19",
+    "START TIME": "02:10 PM",
+    "SUBJECT": "Rockies at D-backs",
+    "LOCATION": "Chase Field - Phoenix",
+    "END DATE": "07/07/19",
+    "END TIME": "05:10 PM"
+  },
+  {
+    "START DATE": "07/09/19",
+    "START TIME": "",
+    "SUBJECT": "NL All-Stars at AL All-Stars - Time TBD",
+    "LOCATION": "Progressive Field - Cleveland",
+    "END DATE": "07/09/19",
+    "END TIME": ""
+  },
+  {
+    "START DATE": "07/12/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Reds at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "07/12/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "07/13/19",
+    "START TIME": "06:10 PM",
+    "SUBJECT": "Reds at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "07/13/19",
+    "END TIME": "09:10 PM"
+  },
+  {
+    "START DATE": "07/14/19",
+    "START TIME": "01:10 PM",
+    "SUBJECT": "Reds at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "07/14/19",
+    "END TIME": "04:10 PM"
+  },
+  {
+    "START DATE": "07/15/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Giants at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "07/15/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "07/16/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Giants at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "07/16/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "07/17/19",
+    "START TIME": "01:10 PM",
+    "SUBJECT": "Giants at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "07/17/19",
+    "END TIME": "04:10 PM"
+  },
+  {
+    "START DATE": "07/19/19",
+    "START TIME": "05:05 PM",
+    "SUBJECT": "Rockies at Yankees",
+    "LOCATION": "Yankee Stadium - Bronx",
+    "END DATE": "07/19/19",
+    "END TIME": "08:05 PM"
+  },
+  {
+    "START DATE": "07/20/19",
+    "START TIME": "11:05 AM",
+    "SUBJECT": "Rockies at Yankees",
+    "LOCATION": "Yankee Stadium - Bronx",
+    "END DATE": "07/20/19",
+    "END TIME": "02:05 PM"
+  },
+  {
+    "START DATE": "07/21/19",
+    "START TIME": "11:05 AM",
+    "SUBJECT": "Rockies at Yankees",
+    "LOCATION": "Yankee Stadium - Bronx",
+    "END DATE": "07/21/19",
+    "END TIME": "02:05 PM"
+  },
+  {
+    "START DATE": "07/22/19",
+    "START TIME": "05:05 PM",
+    "SUBJECT": "Rockies at Nationals",
+    "LOCATION": "Nationals Park - Washington",
+    "END DATE": "07/22/19",
+    "END TIME": "08:05 PM"
+  },
+  {
+    "START DATE": "07/23/19",
+    "START TIME": "05:05 PM",
+    "SUBJECT": "Rockies at Nationals",
+    "LOCATION": "Nationals Park - Washington",
+    "END DATE": "07/23/19",
+    "END TIME": "08:05 PM"
+  },
+  {
+    "START DATE": "07/24/19",
+    "START TIME": "05:05 PM",
+    "SUBJECT": "Rockies at Nationals",
+    "LOCATION": "Nationals Park - Washington",
+    "END DATE": "07/24/19",
+    "END TIME": "08:05 PM"
+  },
+  {
+    "START DATE": "07/25/19",
+    "START TIME": "02:05 PM",
+    "SUBJECT": "Rockies at Nationals",
+    "LOCATION": "Nationals Park - Washington",
+    "END DATE": "07/25/19",
+    "END TIME": "05:05 PM"
+  },
+  {
+    "START DATE": "07/26/19",
+    "START TIME": "04:40 PM",
+    "SUBJECT": "Rockies at Reds",
+    "LOCATION": "Great American Ball Park - Cincinnati",
+    "END DATE": "07/26/19",
+    "END TIME": "07:40 PM"
+  },
+  {
+    "START DATE": "07/27/19",
+    "START TIME": "05:10 PM",
+    "SUBJECT": "Rockies at Reds",
+    "LOCATION": "Great American Ball Park - Cincinnati",
+    "END DATE": "07/27/19",
+    "END TIME": "08:10 PM"
+  },
+  {
+    "START DATE": "07/28/19",
+    "START TIME": "11:10 AM",
+    "SUBJECT": "Rockies at Reds",
+    "LOCATION": "Great American Ball Park - Cincinnati",
+    "END DATE": "07/28/19",
+    "END TIME": "02:10 PM"
+  },
+  {
+    "START DATE": "07/29/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Dodgers at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "07/29/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "07/30/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Dodgers at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "07/30/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "07/31/19",
+    "START TIME": "01:10 PM",
+    "SUBJECT": "Dodgers at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "07/31/19",
+    "END TIME": "04:10 PM"
+  },
+  {
+    "START DATE": "08/02/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Giants at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "08/02/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "08/03/19",
+    "START TIME": "06:10 PM",
+    "SUBJECT": "Giants at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "08/03/19",
+    "END TIME": "09:10 PM"
+  },
+  {
+    "START DATE": "08/04/19",
+    "START TIME": "01:10 PM",
+    "SUBJECT": "Giants at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "08/04/19",
+    "END TIME": "04:10 PM"
+  },
+  {
+    "START DATE": "08/06/19",
+    "START TIME": "06:10 PM",
+    "SUBJECT": "Rockies at Astros",
+    "LOCATION": "Minute Maid Park - Houston",
+    "END DATE": "08/06/19",
+    "END TIME": "09:10 PM"
+  },
+  {
+    "START DATE": "08/07/19",
+    "START TIME": "12:10 PM",
+    "SUBJECT": "Rockies at Astros",
+    "LOCATION": "Minute Maid Park - Houston",
+    "END DATE": "08/07/19",
+    "END TIME": "03:10 PM"
+  },
+  {
+    "START DATE": "08/08/19",
+    "START TIME": "08:10 PM",
+    "SUBJECT": "Rockies at Padres",
+    "LOCATION": "Petco Park - San Diego",
+    "END DATE": "08/08/19",
+    "END TIME": "11:10 PM"
+  },
+  {
+    "START DATE": "08/09/19",
+    "START TIME": "08:10 PM",
+    "SUBJECT": "Rockies at Padres",
+    "LOCATION": "Petco Park - San Diego",
+    "END DATE": "08/09/19",
+    "END TIME": "11:10 PM"
+  },
+  {
+    "START DATE": "08/10/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Rockies at Padres",
+    "LOCATION": "Petco Park - San Diego",
+    "END DATE": "08/10/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "08/11/19",
+    "START TIME": "01:40 PM",
+    "SUBJECT": "Rockies at Padres",
+    "LOCATION": "Petco Park - San Diego",
+    "END DATE": "08/11/19",
+    "END TIME": "04:40 PM"
+  },
+  {
+    "START DATE": "08/12/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "D-backs at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "08/12/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "08/13/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "D-backs at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "08/13/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "08/14/19",
+    "START TIME": "01:10 PM",
+    "SUBJECT": "D-backs at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "08/14/19",
+    "END TIME": "04:10 PM"
+  },
+  {
+    "START DATE": "08/16/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Marlins at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "08/16/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "08/17/19",
+    "START TIME": "06:10 PM",
+    "SUBJECT": "Marlins at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "08/17/19",
+    "END TIME": "09:10 PM"
+  },
+  {
+    "START DATE": "08/18/19",
+    "START TIME": "01:10 PM",
+    "SUBJECT": "Marlins at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "08/18/19",
+    "END TIME": "04:10 PM"
+  },
+  {
+    "START DATE": "08/19/19",
+    "START TIME": "07:40 PM",
+    "SUBJECT": "Rockies at D-backs",
+    "LOCATION": "Chase Field - Phoenix",
+    "END DATE": "08/19/19",
+    "END TIME": "10:40 PM"
+  },
+  {
+    "START DATE": "08/20/19",
+    "START TIME": "07:40 PM",
+    "SUBJECT": "Rockies at D-backs",
+    "LOCATION": "Chase Field - Phoenix",
+    "END DATE": "08/20/19",
+    "END TIME": "10:40 PM"
+  },
+  {
+    "START DATE": "08/21/19",
+    "START TIME": "01:40 PM",
+    "SUBJECT": "Rockies at D-backs",
+    "LOCATION": "Chase Field - Phoenix",
+    "END DATE": "08/21/19",
+    "END TIME": "04:40 PM"
+  },
+  {
+    "START DATE": "08/22/19",
+    "START TIME": "05:45 PM",
+    "SUBJECT": "Rockies at Cardinals",
+    "LOCATION": "Busch Stadium - St. Louis",
+    "END DATE": "08/22/19",
+    "END TIME": "08:45 PM"
+  },
+  {
+    "START DATE": "08/23/19",
+    "START TIME": "06:15 PM",
+    "SUBJECT": "Rockies at Cardinals",
+    "LOCATION": "Busch Stadium - St. Louis",
+    "END DATE": "08/23/19",
+    "END TIME": "09:15 PM"
+  },
+  {
+    "START DATE": "08/24/19",
+    "START TIME": "05:15 PM",
+    "SUBJECT": "Rockies at Cardinals",
+    "LOCATION": "Busch Stadium - St. Louis",
+    "END DATE": "08/24/19",
+    "END TIME": "08:15 PM"
+  },
+  {
+    "START DATE": "08/25/19",
+    "START TIME": "12:15 PM",
+    "SUBJECT": "Rockies at Cardinals",
+    "LOCATION": "Busch Stadium - St. Louis",
+    "END DATE": "08/25/19",
+    "END TIME": "03:15 PM"
+  },
+  {
+    "START DATE": "08/27/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Red Sox at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "08/27/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "08/28/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Red Sox at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "08/28/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "08/29/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Pirates at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "08/29/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "08/30/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Pirates at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "08/30/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "08/31/19",
+    "START TIME": "06:10 PM",
+    "SUBJECT": "Pirates at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "08/31/19",
+    "END TIME": "09:10 PM"
+  },
+  {
+    "START DATE": "09/01/19",
+    "START TIME": "01:10 PM",
+    "SUBJECT": "Pirates at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "09/01/19",
+    "END TIME": "04:10 PM"
+  },
+  {
+    "START DATE": "09/02/19",
+    "START TIME": "06:10 PM",
+    "SUBJECT": "Rockies at Dodgers",
+    "LOCATION": "Dodger Stadium - Los Angeles",
+    "END DATE": "09/02/19",
+    "END TIME": "09:10 PM"
+  },
+  {
+    "START DATE": "09/03/19",
+    "START TIME": "08:10 PM",
+    "SUBJECT": "Rockies at Dodgers",
+    "LOCATION": "Dodger Stadium - Los Angeles",
+    "END DATE": "09/03/19",
+    "END TIME": "11:10 PM"
+  },
+  {
+    "START DATE": "09/04/19",
+    "START TIME": "08:10 PM",
+    "SUBJECT": "Rockies at Dodgers",
+    "LOCATION": "Dodger Stadium - Los Angeles",
+    "END DATE": "09/04/19",
+    "END TIME": "11:10 PM"
+  },
+  {
+    "START DATE": "09/06/19",
+    "START TIME": "08:10 PM",
+    "SUBJECT": "Rockies at Padres",
+    "LOCATION": "Petco Park - San Diego",
+    "END DATE": "09/06/19",
+    "END TIME": "11:10 PM"
+  },
+  {
+    "START DATE": "09/07/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Rockies at Padres",
+    "LOCATION": "Petco Park - San Diego",
+    "END DATE": "09/07/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "09/08/19",
+    "START TIME": "02:10 PM",
+    "SUBJECT": "Rockies at Padres",
+    "LOCATION": "Petco Park - San Diego",
+    "END DATE": "09/08/19",
+    "END TIME": "05:10 PM"
+  },
+  {
+    "START DATE": "09/10/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Cardinals at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "09/10/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "09/11/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Cardinals at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "09/11/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "09/12/19",
+    "START TIME": "01:10 PM",
+    "SUBJECT": "Cardinals at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "09/12/19",
+    "END TIME": "04:10 PM"
+  },
+  {
+    "START DATE": "09/13/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Padres at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "09/13/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "09/14/19",
+    "START TIME": "06:10 PM",
+    "SUBJECT": "Padres at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "09/14/19",
+    "END TIME": "09:10 PM"
+  },
+  {
+    "START DATE": "09/15/19",
+    "START TIME": "01:10 PM",
+    "SUBJECT": "Padres at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "09/15/19",
+    "END TIME": "04:10 PM"
+  },
+  {
+    "START DATE": "09/16/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Mets at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "09/16/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "09/17/19",
+    "START TIME": "06:40 PM",
+    "SUBJECT": "Mets at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "09/17/19",
+    "END TIME": "09:40 PM"
+  },
+  {
+    "START DATE": "09/18/19",
+    "START TIME": "01:10 PM",
+    "SUBJECT": "Mets at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "09/18/19",
+    "END TIME": "04:10 PM"
+  },
+  {
+    "START DATE": "09/20/19",
+    "START TIME": "08:10 PM",
+    "SUBJECT": "Rockies at Dodgers",
+    "LOCATION": "Dodger Stadium - Los Angeles",
+    "END DATE": "09/20/19",
+    "END TIME": "11:10 PM"
+  },
+  {
+    "START DATE": "09/21/19",
+    "START TIME": "07:10 PM",
+    "SUBJECT": "Rockies at Dodgers",
+    "LOCATION": "Dodger Stadium - Los Angeles",
+    "END DATE": "09/21/19",
+    "END TIME": "10:10 PM"
+  },
+  {
+    "START DATE": "09/22/19",
+    "START TIME": "02:10 PM",
+    "SUBJECT": "Rockies at Dodgers",
+    "LOCATION": "Dodger Stadium - Los Angeles",
+    "END DATE": "09/22/19",
+    "END TIME": "05:10 PM"
+  },
+  {
+    "START DATE": "09/24/19",
+    "START TIME": "07:45 PM",
+    "SUBJECT": "Rockies at Giants",
+    "LOCATION": "Oracle Park - San Francisco",
+    "END DATE": "09/24/19",
+    "END TIME": "10:45 PM"
+  },
+  {
+    "START DATE": "09/25/19",
+    "START TIME": "07:45 PM",
+    "SUBJECT": "Rockies at Giants",
+    "LOCATION": "Oracle Park - San Francisco",
+    "END DATE": "09/25/19",
+    "END TIME": "10:45 PM"
+  },
+  {
+    "START DATE": "09/26/19",
+    "START TIME": "01:45 PM",
+    "SUBJECT": "Rockies at Giants",
+    "LOCATION": "Oracle Park - San Francisco",
+    "END DATE": "09/26/19",
+    "END TIME": "04:45 PM"
+  },
+  {
+    "START DATE": "09/27/19",
+    "START TIME": "06:10 PM",
+    "SUBJECT": "Brewers at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "09/27/19",
+    "END TIME": "09:10 PM"
+  },
+  {
+    "START DATE": "09/28/19",
+    "START TIME": "06:10 PM",
+    "SUBJECT": "Brewers at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "09/28/19",
+    "END TIME": "09:10 PM"
+  },
+  {
+    "START DATE": "09/29/19",
+    "START TIME": "01:10 PM",
+    "SUBJECT": "Brewers at Rockies",
+    "LOCATION": "Coors Field - Denver",
+    "END DATE": "09/29/19",
+    "END TIME": "04:10 PM"
+  }
+]
