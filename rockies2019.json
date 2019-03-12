@@ -1,45 +1,5 @@
 [
   {
-    "START DATE": "03/09/19",
-    "START TIME": "01:05 PM",
-    "SUBJECT": "Rockies at Indians",
-    "LOCATION": "Goodyear Ballpark - Goodyear",
-    "END DATE": "03/09/19",
-    "END TIME": "04:05 PM"
-  },
-  {
-    "START DATE": "03/09/19",
-    "START TIME": "05:10 PM",
-    "SUBJECT": "D-backs at Rockies",
-    "LOCATION": "Estadio de Beisbol Monterrey - Monterrey",
-    "END DATE": "03/09/19",
-    "END TIME": "08:10 PM"
-  },
-  {
-    "START DATE": "03/10/19",
-    "START TIME": "02:10 PM",
-    "SUBJECT": "Dodgers at Rockies",
-    "LOCATION": "Salt River Fields at Talking Stick - Scottsdale",
-    "END DATE": "03/10/19",
-    "END TIME": "05:10 PM"
-  },
-  {
-    "START DATE": "03/10/19",
-    "START TIME": "03:10 PM",
-    "SUBJECT": "Rockies at D-backs",
-    "LOCATION": "Estadio de Beisbol Monterrey - Monterrey",
-    "END DATE": "03/10/19",
-    "END TIME": "06:10 PM"
-  },
-  {
-    "START DATE": "03/11/19",
-    "START TIME": "02:10 PM",
-    "SUBJECT": "Athletics at Rockies",
-    "LOCATION": "Salt River Fields at Talking Stick - Scottsdale",
-    "END DATE": "03/11/19",
-    "END TIME": "05:10 PM"
-  },
-  {
     "START DATE": "03/13/19",
     "START TIME": "02:10 PM",
     "SUBJECT": "D-backs at Rockies",
